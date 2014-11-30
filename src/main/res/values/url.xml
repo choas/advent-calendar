@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="base_url">http://android.choas.net/advkalender/__NAME__/__URLDAY__.jpg</string>
+
+    <!--
+example images stored on http://android.choas.net/advkalender/unknown/ found on http://en.wikipedia.org/wiki/Patterns_in_nature
+
+1 - http://upload.wikimedia.org/wikipedia/commons/f/fc/Yemen_Chameleon_(cropped).jpg
+2 - http://upload.wikimedia.org/wikipedia/commons/7/74/Dragon_trees.jpg
+3 - http://upload.wikimedia.org/wikipedia/commons/4/49/Water_splashes_001.jpg
+4 - http://upload.wikimedia.org/wikipedia/commons/9/9d/Schnee2.jpg
+5 - http://upload.wikimedia.org/wikipedia/commons/9/9d/Aragonite-Fluorite-cflu02c.jpg
+6 - http://upload.wikimedia.org/wikipedia/commons/9/99/Starfish_02_(paulshaffner)_cropped.jpg
+7 - http://upload.wikimedia.org/wikipedia/commons/0/02/Angelfish_Nick_Hobgood.jpg
+8 - http://upload.wikimedia.org/wikipedia/commons/3/3a/Schnee1.jpg
+9 - http://upload.wikimedia.org/wikipedia/commons/c/ce/Two_Oceans_Aquarium03.jpg
+10 - http://upload.wikimedia.org/wikipedia/commons/4/4f/Fractal_Broccoli.jpg
+11 - http://upload.wikimedia.org/wikipedia/commons/c/ce/Haeckel_Cyrtoidea.jpg
+12 - http://upload.wikimedia.org/wikipedia/commons/5/55/Lichtenberg_figure_in_block_of_Plexiglas.jpg
+13 - http://upload.wikimedia.org/wikipedia/commons/8/8c/Dendritic_Copper_Crystals_-_20x_magnification.jpg
+14 - http://upload.wikimedia.org/wikipedia/commons/c/c4/Aloe_polyphylla_spiral.jpg
+15 - http://upload.wikimedia.org/wikipedia/commons/c/c5/Leopard_africa.jpg
+16 - http://upload.wikimedia.org/wikipedia/commons/f/ff/Pflanze-Sonnenblume1-Asio_(cropped).JPG
+17 - http://upload.wikimedia.org/wikipedia/commons/4/4b/Trochoidea_liebetruti_(Albers,_1852)_(4308584755).jpg
+18 - http://upload.wikimedia.org/wikipedia/commons/3/3f/Vortex-street-1-90deg.jpg
+19 - http://upload.wikimedia.org/wikipedia/commons/c/ca/Textile_cone_(cropped).JPG
+20 - http://upload.wikimedia.org/wikipedia/commons/1/19/Boelge_stor.jpg
+21 - http://upload.wikimedia.org/wikipedia/commons/0/0c/Haeckel_Spumellaria.jpg
+22 - http://upload.wikimedia.org/wikipedia/commons/7/7d/Cracked_earth_in_the_Rann_of_Kutch.jpg
+23 - http://upload.wikimedia.org/wikipedia/commons/0/0b/Dirce_Beauty_Colobura_dirce.jpg
+24 - http://upload.wikimedia.org/wikipedia/commons/5/53/GarnetCrystalUSGOV.jpg
+
+    -->
+
+</resources>
